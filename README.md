@@ -61,14 +61,12 @@
 
 ## 使用予定技術、言語
 ・rails<br>
-・Vue.js（フロントの一部で使用予定）<br>
-・MySQL<br>
-・circle CIによるテストの自動化<br>
-・AWS<br>
+・Vue.js（触ってみたいのでチョイスしたが、semantic UIの関係上jqueryにするかも）<br>
+
 
 ## gem選定
 ・sorcery（ログイン）<br>
-・bootstrap（デザイン）<br>
+・semantic UI（デザイン）<br>
 ・i18n（国際化）
 
 
