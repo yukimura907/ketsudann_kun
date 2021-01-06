@@ -16,7 +16,6 @@
 
  .footer {
   background-color: black;
-  color: rgb(119, 62, 62);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -26,5 +25,22 @@
 }
 
 .ui.container.main {
-  padding: 60px;
+  padding-top: 80px;
+}
+
+.header.title {
+  font-size: 40px;
+}
+
+.catchcopy {
+  font-size: 20px;
+}
+
+.button.lists {
+  margin-top:100px;
+}
+.ui.secondary.button {
+  display:block;
+  width:200px;
+  margin:30px 0;
 }
