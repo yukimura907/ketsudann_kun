@@ -1,5 +1,6 @@
-Rails.application.routes.draw do
+# frozen_string_literal: true
 
+Rails.application.routes.draw do
   root 'static_pages#top'
   get '/about', to: 'static_pages#about'
   get '/policy', to: 'static_pages#policy'
